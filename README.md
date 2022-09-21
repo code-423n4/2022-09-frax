@@ -9,7 +9,7 @@
 
 # Frax Staked Ethereum
 ## Flowchart
-![frxETH Flowchart](https://raw.githubusercontent.com/code-423n4/2022-09-frax/ea44bc25cfcda10f9d00df508d3f1ad3394b5f88/flowchart.svg?token=APLIAX5JYQBE7H7O3WA5UQ3DFOMIW)
+![frxETH Flowchart](https://3191235985-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MJQZW1mSg2O5N7HXHo0-1972196547%2Fuploads%2FhJQ4ici8EKE8INcS0AZ2%2Fflowchart.svg?alt=media&token=c9ac2edd-ccb3-430b-923d-220c6905947b)
 ## Overview Documentation
 [https://docs.frax.finance/frax-ether/overview](https://docs.frax.finance/frax-ether/overview).
 
