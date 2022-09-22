@@ -26,7 +26,7 @@
 Reccomended to make new dependencies play nicely with VSCode:
 ```forge remappings > remappings.txt```
 
-Note: sometimes the alchemy URL can fail, preventing mainnet forking. If this happens change the RPC url in your .env to use another provider such as infura or alchemy
+Note: Note: sometimes the ankr URL can fail, preventing mainnet forking. If this happens change the RPC url in your .env to use another provider such as infura or alchemy
 
 ### Forge
 Manually, forced
