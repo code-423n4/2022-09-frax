@@ -60,7 +60,6 @@ or ```source .env && forge test --fork-url $MAINNET_RPC_URL -m test_frxETHMinter
 Note: If `forge remappings > remappings.txt` is run, `slither .` works without specifying the remaps
 
 
-<!-- //////////////////////////////////////////////////////////////// -->
 # Deployment & Environment Setup
 ## Deploy
 1) Deploy frxETH.sol
