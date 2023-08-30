@@ -1,0 +1,1518 @@
+==============================================================
+Guild: Code4rena
+Channel: ARCHIVE-Q3-2022 / ☑frax-sept22
+==============================================================
+
+[08/10/2022 4:48 PM] kartoonjoy (pinned)
+👋 Hello and welcome to the contest channel for the $50K USDC **Fraxlend** contest!
+
+📆 Contest opens 08/12/2022 8:00 PM (20:00 UTC) and runs through 08/17/2022 8:00 PM (20:00 UTC) (5 days).
+
+Please give a warm welcome to the Frax Finance team, particularly @drakeevansv1, who will be available for questions either here in the channel or via DM.
+
+We'll be posting relevant links, documentation, etc. here, so if you intend to participate in this contest, consider enabling notifications for this channel. 🐺 ⏰
+
+Contest Page: https://code4rena.com/contests/2022-08-fraxlend-frax-finance-contest
+
+{Embed}
+https://code4rena.com/contests/2022-08-fraxlend-frax-finance-contest
+Code4rena Fraxlend (Frax Finance) contest
+$50,000 USDC
+12 August 2022—17 August 2022
+Code4rena - ARCHIVE-Q3-2022 - ☑frax-sept22 [1006962351754453182].txt_Files/C4-banner-7C19B.png
+
+{Reactions}
+👋 (2) 
+
+[08/10/2022 4:56 PM] codingnamekiki
+3 contests in a week
+
+
+[08/10/2022 4:56 PM] codingnamekiki
+https://tenor.com/view/vtc-vertcoin-ocm-gif-21776652
+
+{Embed}
+https://tenor.com/view/vtc-vertcoin-ocm-gif-21776652
+Code4rena - ARCHIVE-Q3-2022 - ☑frax-sept22 [1006962351754453182].txt_Files/vtc-vertcoin-AD2DD.png
+
+{Reactions}
+🔥 
+
+[08/10/2022 4:57 PM] ilyk#8283
+https://tenor.com/view/ready-im-ready-lets-do-this-prepared-dr-emmet-brown-gif-16482449
+
+{Embed}
+https://tenor.com/view/ready-im-ready-lets-do-this-prepared-dr-emmet-brown-gif-16482449
+Code4rena - ARCHIVE-Q3-2022 - ☑frax-sept22 [1006962351754453182].txt_Files/ready-im-ready-CF095.png
+
+
+[08/11/2022 7:49 AM] JohnSmith#1623
+but do you know what is safe to assume looking at their github repo? 🙃
+
+
+[08/11/2022 7:52 AM] JohnSmith#1623
+it looks like you're gonna become a hardhat expert despite your preference
+
+
+[08/11/2022 11:41 AM] JohnSmith#1623
+https://tenor.com/view/anyone-here-tumbleweed-john-travolta-pulp-fiction-where-are-you-gif-22041899
+
+{Embed}
+https://tenor.com/view/anyone-here-tumbleweed-john-travolta-pulp-fiction-where-are-you-gif-22041899
+Code4rena - ARCHIVE-Q3-2022 - ☑frax-sept22 [1006962351754453182].txt_Files/anyone-here-tumbleweed-1AB2D.png
+
+{Reactions}
+😆 (6) 
+
+[08/11/2022 9:29 PM] codecustard
+How's it going?
+
+
+[08/12/2022 4:20 AM] JohnSmith#1623
+https://tenor.com/view/yes-chad-gif-18386674
+
+{Embed}
+https://tenor.com/view/yes-chad-gif-18386674
+Code4rena - ARCHIVE-Q3-2022 - ☑frax-sept22 [1006962351754453182].txt_Files/yes-chad-93680.png
+
+{Reactions}
+😆 (4) 💯 
+
+[08/12/2022 8:32 PM] drakeevansv1
+Hey all here to answer any questions you may have.  Please reach out
+
+{Reactions}
+👋 (6) 
+
+[08/12/2022 9:43 PM] horsefacts
+Thanks for putting together these videos, Drake!
+
+
+[08/12/2022 9:43 PM] drakeevansv1
+Please let me know if there are other topics you want me to cover! Would love to whip up a vid for you
+
+
+[08/12/2022 11:22 PM] Franfran#5067
+waitin for the hot tub
+
+
+[08/13/2022 7:45 AM] Franfran#5067
+(sorry)
+
+
+[08/13/2022 2:14 PM] Noah3o6#2496
+i am sure that this is a dumb question, but the contracts we should audit are under ,,src" right?
+
+
+[08/13/2022 2:18 PM] JohnSmith#1623
+Contracts in scope are in "Contracts Under Review" section
+
+
+[08/13/2022 2:19 PM] JohnSmith#1623
+So yes
+
+
+[08/13/2022 2:19 PM] Noah3o6#2496
+okay thanks
+
+
+[08/13/2022 3:15 PM] drakeevansv1
+Everything under src/contracts other than the interfaces folder and the FraxlendPairHelper.sol are in scope to audit
+
+{Reactions}
+👍 (4) 
+
+[08/13/2022 5:15 PM] drakeevansv1
+So the fact that no one has DM’d me with questions, must mean I made the Readme comprehensive.. right? 😅
+
+
+[08/13/2022 5:18 PM] codingnamekiki
+Actually l am too shy to DM you
+
+
+[08/13/2022 5:20 PM] codingnamekiki
+||just kidding the Readme is well written||
+
+{Reactions}
+praisethesun (5) 
+
+[08/13/2022 7:10 PM] 0xa5df
+It's not jsut the Readme, the code and docs are pretty well too
+
+
+[08/13/2022 7:24 PM] .bfs
+anyone getting  incompatible solidity versions on forge build?
+
+
+[08/13/2022 7:55 PM] illilli000
+foundryup?
+
+
+[08/13/2022 8:03 PM] .bfs
+fugg
+
+
+[08/14/2022 12:04 AM] devtooligan
+love this vscode extension!! makes console logging so easy 😄 @drakeevansv1also check friend requests pls
+
+{Attachments}
+Code4rena - ARCHIVE-Q3-2022 - ☑frax-sept22 [1006962351754453182].txt_Files/Screen_Shot_2022-08-13_at_5.03.10_PM-72422.png
+
+
+[08/14/2022 12:54 PM] drakeevansv1
+Yes it’s great!! Although much better to use console2.log for foundry 😉
+
+
+[08/14/2022 5:15 PM] devtooligan
+whats the benefit of console2?
+
+
+[08/14/2022 5:50 PM] drakeevansv1
+It prints nicer messages in the output, give it a try its a big improvement but only works with foundry.  Whereas console.log will work with hardhat tests as well i believe.
+
+
+[08/14/2022 7:38 PM] devtooligan
+🤔 hmm looks same to me lol
+
+{Attachments}
+Code4rena - ARCHIVE-Q3-2022 - ☑frax-sept22 [1006962351754453182].txt_Files/Screen_Shot_2022-08-14_at_12.38.13_PM-97C36.png
+
+
+[08/14/2022 8:01 PM] reassor#7970
+btw can you guys elaborate on `Known Issues`, this is something that you are planning to fix? or you accept it by design? its quite a long list tbh ...
+
+{Reactions}
+👍 (2) 
+
+[08/14/2022 8:24 PM] drakeevansv1
+Extended output on errors which you can simulate with -vvvv flag (-vvv does just error tests)
+
+{Reactions}
+👍 
+
+[08/14/2022 8:28 PM] drakeevansv1
+Are there specific issues that you would like more info on?  All of the known issues are by design. I believe most are due to configuration other than  the exchange rate overflow and the low borrow balance.
+
+
+[08/14/2022 8:31 PM] reassor#7970
+Just trying to figure out how to approach it, since it was not specified if its a bug that you are planning to fix or you just accept it.
+
+
+[08/14/2022 10:16 PM] drakeevansv1
+Just accepting
+
+
+[08/16/2022 2:36 AM] Junnon#3182
+I want to dm ser, please accept my friend request
+
+
+[08/16/2022 8:45 AM] drakeevansv1
+Accepted ser! Updated my DM settings to allow anyone to message me as well
+
+
+[08/16/2022 10:35 AM] elku.cryptos
+so i did `npm install` and `forge build`. what would be my next command for running forge tests?
+
+
+[08/16/2022 10:46 AM] illilli000
+`npx hardhat compile && source .env && forge test --fork-url $MAINNET_URL --fork-block-number $DEFAULT_FORK_BLOCK`
+
+
+[08/16/2022 10:46 AM] illilli000
+assuming you created and filled `.env` already
+
+
+[08/16/2022 10:47 AM] elku.cryptos
+we arent using foundry for testing?
+
+
+[08/16/2022 10:47 AM] elku.cryptos
+ah never mind..
+
+
+[08/16/2022 10:47 AM] illilli000
+it's best to follow the commands that the sponsor provides in the order that they provide, so everyone is doing the same thing and different envs don't have to be debugged
+
+{Reactions}
+👍 
+
+[08/16/2022 10:53 AM] elku.cryptos
+these 3 doesnt need to be edited right?
+```
+DEFAULT_FORK_BLOCK=15001901
+
+## Always consider these compromised
+MNEMONIC=
+PRIVATE_KEY=
+```
+only mainnet and polygon mainnet url's are needed?
+
+
+[08/16/2022 10:54 AM] illilli000
+actually, instructions say to fill in mnemonic
+
+
+[08/16/2022 10:55 AM] illilli000
+you can use:
+`MNEMONIC="test test test test test test test test test test test junk"`
+
+
+[08/16/2022 10:58 AM] elku.cryptos
+```
+source .env && forge test --fork-url $MAINNET_URL --fork-block-number $DEFAULT_FORK_BLOCK
+: command not found
+error: Invalid value "15001901\r" for '--fork-block-number <BLOCK>': invalid digit found in string
+
+For more information try --help
+```
+
+
+[08/16/2022 10:59 AM] illilli000
+are you on windows? try going to the end of the DEFAULT_FORK_BLOCK line, deleting all the digits, re-add them, and press enter
+
+
+[08/16/2022 10:59 AM] illilli000
+and save and try again
+
+
+[08/16/2022 11:03 AM] elku.cryptos
+yes. i am on windows.. 😅 
+re-adding them didnt work, but i placed the whole line at the end of the file and its running now. thanks a lot for the help man.
+
+{Reactions}
+👍 
+
+[08/16/2022 1:02 PM] itsmetechjay
+Pinned a message.
+
+{Reactions}
+thankyou 
+
+[08/16/2022 8:30 PM] drakeevansv1
+Any one have some goerli eth
+
+
+[08/16/2022 8:30 PM] rokinot
+you can get some at alchemy if you have an account
+
+
+[08/16/2022 8:57 PM] nine_december
+dm me, I've got some
+
+
+[08/16/2022 9:10 PM] devtooligan
+i have 4.9 if that will help, dm address if neeeded
+
+
+[08/17/2022 12:15 AM] cryptphi
+Hi... what is the average maxLTV used in the test please?
+
+
+[08/17/2022 8:01 AM] minh___
+there is a default max ltv of 75000 (which is 75% with precision of 1e5)
+
+
+[08/17/2022 8:36 AM] cryptphi
+cool, thanks
+
+
+[08/17/2022 9:30 AM] minh___
+@drakeevansv1 sent you a dm
+
+{Reactions}
+👍 
+
+[08/17/2022 3:31 PM] 0xmatt#3768
+Hey @drakeevansv1 just wanted to say thankyou for all the effort you went to with the docs and videos. I only had a short amount of time to look yesterday and today, I regret not starting sooner (but was on another competition)
+
+
+[08/17/2022 3:47 PM] drakeevansv1
+Thank you! Hope you find some bugs!
+
+
+[08/17/2022 8:02 PM] C4
+**🚨 CONTEST ALERT**
+
+@🐺wardens The **Fraxlend** contest is now closed! Huge thanks to everyone who participated 🔍, whether you submitted a finding or not.
+
+What's next: the **Frax Finance** team will review the findings over the next couple of days, and then we'll pass them off to the judge. Keep an eye on #📢announcements for regular updates on how the contest is progressing through awarding 🤑🏆, judging 🧑‍⚖️ and reporting 📜. Feel free to ping a gardener if you have questions along the way!
+
+{Reactions}
+👍 (8) 
+
+[08/17/2022 9:41 PM] CRYP70#8985
+Thank you to the devs and staff for hosting! Didn’t get much time on this one but learnt some invaluable skills 🙂
+
+{Reactions}
+hi5 (4) 👍 (3) 
+
+[09/22/2022 11:23 AM] kartoonjoy
+👋 Hello and welcome to the contest channel for the $30K USDC **Frax Ether Liquid Staking** contest!
+
+📆 Contest opens 09/22/2022 8:00 PM (20:00 UTC) and runs through 09/25/2022 8:00 PM (20:00 UTC) (3 days).
+
+Please give a warm welcome to the Frax Finance team, particularly @Jack Corddry, who will be available for questions either here in the channel or via DM.
+
+We'll be posting relevant links, documentation, etc. here, so if you intend to participate in this contest, consider enabling notifications for this channel. 🐺 ⏰
+
+Contest Page: https://code4rena.com/contests/2022-09-frax-ether-liquid-staking-contest
+
+{Embed}
+https://code4rena.com/contests/2022-09-frax-ether-liquid-staking-contest
+Code4rena Frax Ether Liquid Staking contest
+$30,000 USDC
+22 September 2022—25 September 2022
+Code4rena - ARCHIVE-Q3-2022 - ☑frax-sept22 [1006962351754453182].txt_Files/C4-banner-7C19B.png
+
+{Reactions}
+C4Keycap ⏰ 🐺 (3) 
+
+[09/22/2022 11:27 AM] smiling_heretic
+I think the contest page is wrong.
+
+{Reactions}
+thankyou 
+
+[09/22/2022 6:43 PM] corddry
+Hey guys! Looking forward to the contest. Hit me with your questions anytime 🙏🏻
+
+{Reactions}
+💯 (3) hi5 
+
+[09/22/2022 7:24 PM] Franfran#5067
+Hey sers
+
+
+[09/22/2022 8:02 PM] travisfraxfinance33
+hi guys
+
+{Reactions}
+hi5 (3) 
+
+[09/22/2022 8:06 PM] devtooligan
+:salute:
+
+{Reactions}
+🫡 (4) 
+
+[09/22/2022 8:15 PM] supernovahs
+Hiiiiii8
+
+
+[09/22/2022 8:26 PM] supernovahs
+Is it already audited before?
+
+
+[09/22/2022 8:28 PM] drakeevansv1
+Not previously audited 🙂
+
+{Reactions}
+👍 
+
+[09/23/2022 10:51 PM] .respx
+I keep encountering this error:
+```
+$ git submodule update --recursive --remote
+fatal: Needed a single revision
+Unable to find current origin/master revision in submodule path 'lib/ERC4626'
+```
+I get it with that individual command, but also if I do the all-in-one command:
+```
+Cloning into '/home/respx/C4/2022-09-frax/lib/solmate'...
+fatal: Needed a single revision
+Unable to find current origin/master revision in submodule path 'lib/ERC4626'
+```
+
+
+[09/23/2022 10:51 PM] travisfraxfinance33
+hmm
+
+
+[09/23/2022 10:51 PM] travisfraxfinance33
+Do you have any submodules currently there?
+
+
+[09/23/2022 10:51 PM] travisfraxfinance33
+It shouldnt need to be in tip-top updated state
+
+
+[09/23/2022 10:52 PM] travisfraxfinance33
+you can also cd into the submodule and `git pull` I think
+
+
+[09/23/2022 10:52 PM] .respx
+With the all-in-one there is nothing there before I run the command.
+
+
+[09/23/2022 10:53 PM] travisfraxfinance33
+should look like this
+
+{Attachments}
+Code4rena - ARCHIVE-Q3-2022 - ☑frax-sept22 [1006962351754453182].txt_Files/Screenshot_from_2022-09-23_15-53-08-8D9EE.png
+
+
+[09/23/2022 10:54 PM] corddry
+Have you tried from scratch with the individual steps instead of the all-in-one?
+
+
+[09/23/2022 10:54 PM] travisfraxfinance33
+if you are just starting, you need to make sure to have the submodule commands when cloning.
+```git clone https://github.com/FraxFinance/frxETH-public.git --recurse-submodules --remote-submodules```
+
+
+[09/23/2022 10:57 PM] .respx
+Okay, I cleaned it all out and ran your command, @Travis | Frax Finance (¤³, ¤³). It gave that error when running your command.
+
+
+[09/23/2022 10:58 PM] travisfraxfinance33
+Weird. I just ran it in an empty test folder and worked fine
+
+
+[09/23/2022 10:59 PM] travisfraxfinance33
+hmm
+
+
+[09/23/2022 11:00 PM] illilli000
+maybe there's some envvar set in your env? try a fresh xterm
+
+
+[09/23/2022 11:01 PM] travisfraxfinance33
+Most of the envars are used in the tests. He should be able to clone with no .env file at all
+
+
+[09/23/2022 11:02 PM] travisfraxfinance33
+I am on Ubuntu 20.04, what are you on
+
+
+[09/23/2022 11:03 PM] illilli000
+no, I meant wardens often do the cloning into the same directory for every sponsor, and perhaps there was some leftover envvar from a previous contest
+
+
+[09/23/2022 11:03 PM] travisfraxfinance33
+Could be his personal git setup
+
+
+[09/23/2022 11:04 PM] .respx
+I'm using a WSL Ubuntu here.
+
+
+[09/23/2022 11:04 PM] .respx
+Could well be my git setup.
+
+
+[09/23/2022 11:04 PM] illilli000
+see if any of these work? https://stackoverflow.com/questions/38227598/git-submodule-update-init-gives-error-fatal-needed-a-single-revision-unable-t
+
+{Reactions}
+4739_Skeletor 
+
+[09/23/2022 11:05 PM] travisfraxfinance33
+@Respx try this and maybe manually add in the submodules one by one
+
+
+[09/23/2022 11:05 PM] travisfraxfinance33
+make sure to target /lib and not .
+
+
+[09/23/2022 11:34 PM] .respx
+I've switched to a different computer (Ubuntu 20.04.5 LTS) but I am getting precisely the same issues and behaviours. `git submodule update --init --recursive --remote` always produces that error. I can run the commands from stackoverflow, but none of them fix that behaviour. My lib directory never has the same pattern of updates as your screenshot shows. Right now it is SSSM. If I proceed with commands, I fail at `forge build` with lots of `Compiler run failed
+ error[6275]: ParserError: Source ... not found`
+
+
+[09/23/2022 11:35 PM] travisfraxfinance33
+Is foundry installed?
+
+
+[09/23/2022 11:35 PM] .respx
+yes
+
+
+[09/23/2022 11:37 PM] travisfraxfinance33
+1) `mkdir lib`
+2) `git submodule add https://github.com/fei-protocol/ERC4626 ./lib`
+
+
+[09/23/2022 11:38 PM] .respx
+I just got the tests to run, weirdly. It happened by adding `openzeppelin-contracts/=lib/openzeppelin-contracts/` to the end of `remappings.txt`.
+
+{Reactions}
+skeletormindblown (2) 
+
+[09/23/2022 11:38 PM] .respx
+I did that without running your command, Travis.
+
+
+[09/23/2022 11:53 PM] illilli000
+what made you decide to try that? that remapping was already in remappings.txt
+
+
+[09/23/2022 11:54 PM] .respx
+Not in mine. `forge build` was failing and reported that it could not find the oz files. It seemed to be missing the `lib`
+
+
+[09/23/2022 11:59 PM] travisfraxfinance33
+If remappings was missing, that would have indeed caused issues
+
+
+[09/24/2022 10:05 AM] w0Lfrum#0078
+When "forge test --fork-url $FORK_URL -vv" is run, I got an environment variable not found error. Is there a way to "export" all the environment variables in the .env file in one go?
+
+
+[09/24/2022 10:07 AM] w0Lfrum#0078
+Is there a way around this?
+
+{Attachments}
+Code4rena - ARCHIVE-Q3-2022 - ☑frax-sept22 [1006962351754453182].txt_Files/unknown-FA4B0.png
+
+
+[09/24/2022 10:14 AM] illilli000
+If you're running with the alchemy command, that's the only one that needs to be exported - all others should come from the .env file
+
+
+[09/24/2022 10:17 AM] w0Lfrum#0078
+I've already run 
+export FORK_URL="https://eth-mainnet.g.alchemy.com/v2/{...}"
+and I've also added FORK_URL="https://eth-mainnet.g.alchemy.com/v2/{...}" in the .env file
+
+
+[09/24/2022 10:22 AM] illilli000
+my url looks like this: `https://eth-mainnet.alchemyapi.io/v2/xxxxx` so are you sure you are using the right one?
+
+
+[09/24/2022 10:24 AM] w0Lfrum#0078
+I just used curly braces instead of the xxxx just for showing the rpc url here
+The curly braces got converted to %7B and %7D somehow
+
+
+[09/24/2022 10:25 AM] w0Lfrum#0078
+I'm sure I used the right RPC URL
+
+
+[09/24/2022 10:25 AM] illilli000
+alchemyapi.io, not g.alchemy.com
+
+
+[09/24/2022 10:27 AM] illilli000
+and I don't think there are curly braces...
+
+
+[09/24/2022 10:30 AM] illilli000
+it looks like they've updated the url domain since last I checked, but like I said, I don't think there should be curly braces in the key
+
+
+[09/24/2022 10:31 AM] illilli000
+did you try the non-alchemy all-in-one?
+
+
+[09/24/2022 10:33 AM] w0Lfrum#0078
+It's given as ".com"
+
+{Attachments}
+Code4rena - ARCHIVE-Q3-2022 - ☑frax-sept22 [1006962351754453182].txt_Files/unknown-CF202.png
+
+
+[09/24/2022 10:38 AM] w0Lfrum#0078
+No no, what I meant to say is that just for the purpose of hiding the API key part of the alchemy link, I had replaced it with {...} before posting it publicly on discord.
+But for the commands that I ran on my terminal, for those I used the correct alchemy https link.
+
+
+[09/24/2022 10:38 AM] illilli000
+ok, got it. please try the non-alchemy all-in-one
+
+
+[09/24/2022 11:04 AM] illilli000
+@w0Lfrum did it work?
+
+
+[09/24/2022 11:06 AM] w0Lfrum#0078
+I did tried the default ankr all-in-one, but I still got the same "environment variable not found" error for the foundry tests
+
+
+[09/24/2022 11:07 AM] illilli000
+are you on windows?
+
+
+[09/24/2022 11:07 AM] w0Lfrum#0078
+I think it might have to do with me using the windows OS
+
+
+[09/24/2022 11:07 AM] w0Lfrum#0078
+Yep
+
+
+[09/24/2022 11:08 AM] illilli000
+oh ok, yeah, sorry, I don't have a windows env where I can debug things like this
+
+
+[09/24/2022 11:09 AM] w0Lfrum#0078
+It's fine, I'll use wsl
+
+
+[09/24/2022 11:09 AM] w0Lfrum#0078
+@IllIllI thanks anyway. Appreciate it.
+
+{Reactions}
+👍 
+
+[09/25/2022 2:00 AM] _oceansky
+Guys, newbie here, need to ask what is the meaning of "coverage" here?
+
+
+[09/25/2022 2:00 AM] _oceansky
+
+
+{Attachments}
+Code4rena - ARCHIVE-Q3-2022 - ☑frax-sept22 [1006962351754453182].txt_Files/unknown-F9EFA.png
+
+
+[09/25/2022 2:01 AM] _oceansky
+for example in https://github.com/code-423n4/2022-09-frax/blob/main/src/ERC20/ERC20PermitPermissionedMint.sol, it only covers 10%?
+
+
+[09/25/2022 3:26 AM] carrotsmuggler
+coverage of the tests. 10% = 10% of the lines of code in that file are being run through in some test in the test suite
+
+{Reactions}
+thankyou (2) 
+
+[09/25/2022 3:35 AM] neko_nyaa
+How do you cover 6.8 lines?
+
+
+[09/25/2022 4:10 AM] carrotsmuggler
+the sloc listed here and the test module probably counts lines of code differently
+
+
+[09/25/2022 5:13 AM] pfapostol
+maybe it counts functions and other symbols
+
+
+[09/25/2022 6:58 AM] illilli000
+sloc will count curly braces, whereas since curly braces aren't executable statements, they don't count when doing coverage
+
+
+[09/25/2022 6:58 AM] illilli000
+if you hover over the coverage number with your mouse, it will show you the number of lines it counted
+
+{Reactions}
+thankyou 
+
+[09/25/2022 9:57 AM] road220
+btw, do I need to somehow specify remappings.txt when `forge build --force` like in hh? Idk, but it tries to search for oz imports in `./` which is a bit weird
+
+
+[09/25/2022 9:59 AM] illilli000
+some windows users are having an issue with oz, and while there's a workaround https://discord.com/channels/810916927919620096/1006962351754453182/1023015534889009162 the underlying reason hasn't been determined
+
+
+[09/25/2022 9:59 AM] road220
+i'm on linux
+
+
+[09/25/2022 10:00 AM] illilli000
+is the all-in-one command not working for you?
+
+
+[09/25/2022 10:05 AM] road220
+Actually, I've checked the whole thread https://discord.com/channels/810916927919620096/1006962351754453182/1023019566516944906. Thx, i'll try to add manually, since I've also spent about hour on that
+
+
+[09/25/2022 10:06 AM] illilli000
+the all-in-one is there to save you time, but if you figure out the oz issue, let us know!
+
+
+[09/25/2022 10:13 AM] road220
+ohh, I get the reason behind such behavior. 
+
+lib/oz-contracts/contracts/contracts/...
+
+just try to remove extra /contracts in remappings
+
+{Attachments}
+Code4rena - ARCHIVE-Q3-2022 - ☑frax-sept22 [1006962351754453182].txt_Files/Screenshot_from_2022-09-25_13-12-27-D7A7C.png
+
+
+[09/25/2022 10:15 AM] road220
+I mean this part
+
+{Attachments}
+Code4rena - ARCHIVE-Q3-2022 - ☑frax-sept22 [1006962351754453182].txt_Files/Screenshot_from_2022-09-25_13-15-06-685D5.png
+
+
+[09/25/2022 10:25 AM] neko_nyaa
+Btw might be a little late but running `source .env && forge test --fork-url $MAINNET_RPC_URL -vv` gives me "environment variable not found"
+
+
+[09/25/2022 10:25 AM] neko_nyaa
+I simply rename `SAMPLE.env` into `.env`
+
+
+[09/25/2022 10:25 AM] neko_nyaa
+Can anyone help me with this?
+
+
+[09/25/2022 10:26 AM] illilli000
+are you on windows? did you try the ankr all-in-one command?
+
+
+[09/25/2022 10:28 AM] neko_nyaa
+I'm on mac
+
+
+[09/25/2022 10:28 AM] neko_nyaa
+🤦 ankr all-in-one gives me an error that just says `Solc Error:`
+
+
+[09/25/2022 8:02 PM] C4
+**🚨 CONTEST ALERT**
+
+@🐺wardens The **Frax Ether Liquid Staking** contest is now closed! Huge thanks to everyone who participated 🔍, whether you submitted a finding or not.
+
+What's next: the **Frax Finance** team will review the findings over the next couple of days, and then we'll pass them off to the judge. Keep an eye on #📢announcements for regular updates on how the contest is progressing through awarding 🤑🏆, judging 🧑‍⚖️ and reporting 📜. Feel free to ping a gardener if you have questions along the way!
+
+{Reactions}
+4739_Skeletor (7) 🎉 (11) skeletoryas (5) 💯 (4) ✅ (5) 
+
+[09/26/2022 2:19 PM] jaetask
+Might be a ternary where only one side gets executed.
+
+
+[09/26/2022 2:31 PM] neko_nyaa
+I like this theory actually
+
+
+[09/26/2022 5:40 PM] codingnamekiki
+Any news on the first frax contest?
+
+
+[09/27/2022 7:23 AM] .yasiransari
+Any news on frax contest? I am excited about that because this is my first contest...
+
+{Reactions}
+❤️ 
+
+[10/12/2022 9:29 AM] drdr#4836
+Hey, how long does it usually take to close the contest?
+
+
+[10/15/2022 7:40 AM] .yasiransari
+Hey, yeah I also really want to know about this
+
+
+[10/20/2022 6:04 AM] rokinot
+https://github.com/code-423n4/code423n4.com/pull/4496
+
+{Embed}
+https://github.com/code-423n4/code423n4.com/pull/4496
+Add both Frax contests to leaderboard by liveactionllama · Pull Req...
+Code4rena - ARCHIVE-Q3-2022 - ☑frax-sept22 [1006962351754453182].txt_Files/4496-3F396
+
+{Reactions}
+👍 (4) 
+
+[10/20/2022 7:27 AM] anonnp
+Are the results calculated with the new formula?
+
+
+[10/20/2022 7:58 AM] matin6517
+I'd submitted too many gas opts, QA, and also a medium finding but I can't see my name in the leaderboard🥺 ☹️ 
+I'm not gonna be paid even $10!
+
+
+[10/20/2022 11:25 AM] 0xsmartcontract
+Does anyone know what projects name 153 and 165 are?
+
+
+[10/20/2022 11:41 AM] neko_nyaa
+153 is lend, 165 is staking
+
+{Reactions}
+hi5 
+
+[10/20/2022 1:02 PM] reyadmirado
+Some wardens got 0 score on QA and got paid so i think its the old formula and there might be a problem in your case my friend
+
+
+[10/20/2022 5:36 PM] itsmetechjay
+🤑 🎉 Awards for **Frax**, August contest:
+
+$10,575.64 USDC » @0xA5DF 
+$7,629.07 USDC » @Roman 
+$4,184.70 USDC » @Bernd 
+$3,026.13 USDC » @0x1f8b 
+$2,774.28 USDC » @auditor0517 
+$2,581.49 USDC » CertoraInc (@egjlmn1, @Ori Dabush, @shakedwinder, @RoiEvenHaim, @ItayG)
+$2,520.45 USDC » @cccz 
+$2,282.09 USDC » @panprog 
+$1,668.25 USDC » @IllIllI 
+$1,214.68 USDC » @__141345__ 
+$1,192.60 USDC » @0x52 
+$1,141.05 USDC » @100proof 
+$754.06 USDC » @rbserver 
+$507.96 USDC » @cryptphi 
+$370.15 USDC » @brgltd 
+$326.46 USDC » @lucyoa 
+$323.44 USDC » @Django | Saloon Finance 
+$270.72 USDC » @carlitox477 
+$259.66 USDC » @_Adam 
+$248.16 USDC » @Rolezn 
+$247.68 USDC » @pfapostol 
+$238.34 USDC » @minhquanym 
+$238.34 USDC » @zzzitron 
+$192.51 USDC » @minhtrng 
+$183.97 USDC » @Deivitto 
+$170.17 USDC » @JC
+$136.19 USDC » yac (@thebensams, @++devtooligan, @blockdev, @usmannk, @sjkelleyjr, @thraull, @NibblerExpress) 
+$108.74 USDC » @0xSmartContract 
+$99.86 USDC » @0xNazgul 
+$91.36 USDC » @thinklab 
+$85.70 USDC » mics
+$84.57 USDC » @c3phas
+$81.48 USDC » @Bnke 
+$77.04 USDC » @ret2basic.eth 
+$75.51 USDC » @MiloTruck 
+$70.39 USDC » @robee 
+$69.48 USDC » @Dravee 
+$69.44 USDC » @gogo 
+$69.32 USDC » @ReyAdmirado 
+$68.69 USDC » @Junnon 
+$68.33 USDC » @Waze 
+$67.72 USDC » @code-cipher 
+$67.60 USDC » @EricTee 
+$67.35 USDC » @CodingNameKiki
+$67.29 USDC » @Rohan 
+$67.23 USDC » @ElKu 
+$67.21 USDC » @durianSausage 
+$67.18 USDC » @TomJ 
+$67.15 USDC » @kyteg 
+$67.11 USDC » @fatherOfBlocks
+
+{Reactions}
+🎉 (3) 
+
+[10/20/2022 5:36 PM] itsmetechjay
+$67.11 USDC » @Ignacio
+$67.08 USDC » @LéoS 
+$67.08 USDC » @ballx
+$67.04 USDC » @medikko
+$67.04 USDC » @simon135
+$67.04 USDC » @Noah3o6
+$67.02 USDC » @Sm4rty
+$67.01 USDC » @Funen
+$67.01 USDC » @delfin454000
+$67.01 USDC » @sach1r0
+$67.01 USDC » @SaharAP
+$67.01 USDC » @sryysryy
+$67.00 USDC » @SooYa
+$67.00 USDC » @a12jmx
+$67.00 USDC » @cRat1st0s
+$67.00 USDC » @ak1
+$67.00 USDC » @Sloth 
+$67.00 USDC » @Chom
+$67.00 USDC » @djxploit
+$67.00 USDC » @gzeon
+$67.00 USDC » @d3e4
+$67.00 USDC » @Yiko
+$67.00 USDC » @TuckSparrow
+$67.00 USDC » @ladboy233小伙子
+$67.00 USDC » @PaludoX0
+$50.07 USDC » @bin2chen
+$50.02 USDC » @ajtra
+$47.04 USDC » @RoiEvenHaim
+$46.38 USDC » @tabish.eth 
+$46.01 USDC » @beelzebufo 
+$45.85 USDC » @ayeslick
+$45.85 USDC » @yash 
+$45.84 USDC » @cryptonue 
+$45.83 USDC » @dy
+$45.83 USDC » @hyh
+$45.83 USDC » 0xsolstars (@Varun_Verma, @masterchief)
+$45.83 USDC » @0xmatt
+$45.83 USDC » The_GUILD (@David_, @Ephraim, @LeoGold, @greatsamist)
+$45.83 USDC » @0xNineDec
+$45.83 USDC » @dipp
+$25.75 USDC » @Chinmay
+$23.13 USDC » @0xkatana
+$22.05 USDC » @Tomio 
+$21.24 USDC » @m_Rassska
+$21.18 USDC » @saian
+$21.17 USDC » @Noam Yakov 
+$21.17 USDC » @flyx 
+$21.17 USDC » @Amithuddar
+$21.17 USDC » @Fitraldys
+$21.17 USDC » @gerdusx
+$21.17 USDC » @Metatron
+$21.17 USDC » @2997ms
+$21.17 USDC » @newfork01 
+$21.17 USDC » @chrisdior4
+$21.17 USDC » @0xackerman 
+$21.17 USDC » @jag 
+$21.17 USDC » @0xpathfindr
+$21.17 USDC » @Ruhum
+$21.17 USDC » @Diraco
+$21.17 USDC » @Randyyy
+$21.17 USDC » @zeesaw
+$21.17 USDC » @0xc0ffEE
+$21.17 USDC » @IgnacioB 
+$21.17 USDC » @dharma09
+$21.17 USDC » @hakerbaya 
+$21.17 USDC » @bvttplvg
+$21.17 USDC » @0xbepresent
+$21.17 USDC » @find_1_bug 
+$21.17 USDC » @francoHacker 
+$21.17 USDC » @ltyu 
+
+🏁 Findings summary
+---------------------------
+High risk findings: 6 total, 2 unique
+Med risk findings: 32 total, 13 unique
+Gas optimization reports: 94
+QA reports: 85
+
+Awards will be distributed on Polygon within the next 1-2 weeks. Congratulations all! 💸 💸 💸
+
+*Note: If you participated in this contest and don’t see your name on this list, please wait until the report is published and the findings repo is made public to check on your submissions. *
+
+{Reactions}
+C4Keycap (2) 
+
+[10/20/2022 5:37 PM] travisfraxfinance33
+yeeee
+
+{Reactions}
+catvibe (6) 
+
+[10/20/2022 5:50 PM] carlitox477
+3° medium found, I can apply to be a backstage warden now 😄
+
+
+[10/20/2022 5:56 PM] itsmetechjay
+🤑 🎉 Awards for **Frax Ether Liquid Staking** (September contest)
+
+$7,217.01 USDC » @furchill 
+$3,298.16 USDC » @__141345__ 
+$2,123.84 USDC » @Roman 
+$1,941.03 USDC » @bin2chen 
+$1,941.03 USDC » @Critical 
+$1,247.89 USDC » @Chom 
+$1,134.48 USDC » @ladboy233小伙子 
+$1,018.51 USDC » @joestakey 
+$752.08 USDC » @ronnyx2017 
+$725.29 USDC » @Rotcivegaf 
+$630.32 USDC » @ayeslick 
+$630.30 USDC » @rvierdiiev 
+$589.18 USDC » @Trust 
+$413.04 USDC » @cccz 
+$405.87 USDC » @wagmi 
+$271.25 USDC » @Respx 
+$196.12 USDC » @Bahurum 
+$189.88 USDC » @0x1f8b 
+$184.13 USDC » @lukris02 
+$183.19 USDC » V_B (@Barichek, @Vlad B | zkSync)
+$156.96 USDC » @datapunk 
+$156.96 USDC » @Ch_301 
+$147.69 USDC » @thinklab 
+$147.47 USDC » @IllIllI 
+$146.62 USDC » @anon 
+$135.62 USDC » @pashov 
+$125.40 USDC » @pfapostol 
+$124.69 USDC » @bytera 
+$101.09 USDC » @TomJ 
+$100.33 USDC » @rbserver 
+$96.06 USDC » @0xNazgul 
+$91.74 USDC » @0xSmartContract 
+$83.85 USDC » @Bnke 
+$78.53 USDC » @Rolezn 
+$72.55 USDC » @neko_nyaaaaaaaaaaaaaaaaaaaaaaaaa 
+$69.54 USDC » @gogo 
+$69.35 USDC » @leosathya 
+$68.72 USDC » @ajtra 
+$67.17 USDC » @Soosh 
+$67.17 USDC » KIntern_NA (@TrungOre, @duc)
+$65.06 USDC » @brgltd 
+$62.92 USDC » @code-cipher 
+$60.81 USDC » @PaludoX0 
+$60.49 USDC » @8olidity 
+$60.48 USDC » @peritoflores 
+$58.04 USDC » @CodingNameKiki 
+$54.44 USDC » @Sm4rty 
+$53.32 USDC » @JC
+$53.31 USDC » @rokinot 
+$53.31 USDC » @seyni 
+$51.61 USDC » @c3phas 
+$51.16 USDC » @ReyAdmirado 
+$48.01 USDC » @csanuragjain 
+$48.00 USDC » OptimismSec (@100proof, @Tofunmi)
+$47.63 USDC » @bobirichman7542 
+$43.65 USDC » @Deivitto 
+$42.94 USDC » @cryptostellar5 
+$42.26 USDC » @Diana 
+$42.00 USDC » @B2 
+$41.95 USDC » @ret2basic.eth 
+$41.82 USDC » @delfin454000
+
+
+[10/20/2022 5:56 PM] itsmetechjay
+$41.14 USDC » RockingMiles (@robee, @pants)
+$40.98 USDC » @Waze 
+$40.89 USDC » @tnevler 
+$40.88 USDC » @aysha 
+$40.88 USDC » @cryptphi 
+$40.88 USDC » mics
+$40.85 USDC » @durianSausage 
+$40.84 USDC » Triangle (@!0xcaventa, @DeviantArt)
+$40.84 USDC » @Funen 
+$40.83 USDC » @karanctf 
+$40.83 USDC » @Natzuu 
+$40.83 USDC » @0X040 
+$40.83 USDC » @got_targ 
+$40.83 USDC » @slowmoses 
+$40.83 USDC » @sach1r0 
+$40.83 USDC » @Sloth 
+$40.83 USDC » @millers.planet 
+$40.83 USDC » @jag 
+$40.82 USDC » @Tagir2003 
+$39.16 USDC » @0x52 
+$39.16 USDC » @yixxas 
+$28.07 USDC » 0xf15ers (@remora0, @twojoy)
+$28.07 USDC » @a12jmx 
+$28.02 USDC » @sikorico 
+$28.01 USDC » @JLevick 
+$28.01 USDC » @bbuddha 
+$28.01 USDC » @yasir 
+$28.01 USDC » @yongskiws 
+$28.01 USDC » @obront 
+$28.01 USDC » @Yiko 
+$28.01 USDC » @Tointer 
+$28.01 USDC » @PENGUN 
+$28.01 USDC » @bharg4v 
+$26.42 USDC » @Prasant Gupta 
+$25.30 USDC » @0x5rings 
+$13.94 USDC » @SnowMan 
+$12.99 USDC » @ch0bu 
+$12.99 USDC » @peanuts 
+$12.99 USDC » @medikko 
+$12.87 USDC » @zishansami 
+$12.87 USDC » @Rohan 
+$12.84 USDC » @EricTee 
+$12.83 USDC » @d3e4 
+$12.82 USDC » @RaymondFam 
+$12.82 USDC » @0xA5DF 
+$12.82 USDC » @Tomio 
+$12.82 USDC » @Amithuddar 
+$12.81 USDC » @Metatron 
+$12.81 USDC » @samruna 
+$12.81 USDC » @drdr 
+$12.81 USDC » @bulej93 
+$12.81 USDC » Satyam_Sharma
+$12.81 USDC » @Ocean_Sky 
+$12.81 USDC » @imare 
+$12.81 USDC » JAGADESH
+$12.81 USDC » @SooYa 
+$12.81 USDC » @Pheonix 
+$12.81 USDC » @Fitraldys 
+$12.81 USDC » @0xsam 
+$12.81 USDC » @fatherOfBlocks 
+$12.81 USDC » @Albin Csergő 
+$12.81 USDC » @beardofginger 
+$12.81 USDC » @Ben
+$12.81 USDC » @emrekocak 
+$12.81 USDC » @dharma09 
+$12.81 USDC » @0xmatt 
+$12.49 USDC » @zhuXKET 
+$12.49 USDC » @hansfriese 
+$12.49 USDC » @m9800 
+$12.49 USDC » @magu 
+$12.49 USDC » @Pedroais 
+$12.49 USDC » @Ruhum 
+
+🏁 Findings summary
+---------------------------
+High risk findings: 4 total, 2 unique
+Med risk findings: 82 total, 10 unique
+Gas optimization reports: 93
+QA reports: 83 
+
+Awards will be distributed on Polygon within the next 1-2 weeks. Congratulations all! 💸 💸 💸
+
+*Note: If you participated in this contest and don’t see your name on this list, please wait until the report is published and the findings repo is made public to check on your submissions*
+
+{Reactions}
+C4Keycap (3) 
+
+[10/20/2022 6:01 PM] ladboy233
+THanks!
+
+
+[10/20/2022 6:52 PM] codingnamekiki
+that's a decent pizza
+
+
+[10/20/2022 6:52 PM] codingnamekiki
+:wha:
+
+
+[10/20/2022 6:53 PM] yongkiws
+Cheers dude
+
+{Reactions}
+hi5 (3) 
+
+[10/21/2022 1:32 AM] _oceansky
+Thank you! Got my 2nd bounty reward yey
+
+{Reactions}
+🔥 
+
+[10/21/2022 1:41 AM] franco_btc
+thanks ....
+
+
+[10/21/2022 6:33 AM] parashar
+thanks, first time first 😄
+
+{Reactions}
+4739_Skeletor 
+
+[10/22/2022 1:04 AM] chaduke#3730
+@yongskiwshow much time did you spend to get $28?
+
+
+[10/22/2022 1:04 AM] chaduke#3730
+congrats, by the way
+
+
+[10/22/2022 1:04 AM] chaduke#3730
+@Ocean_Skyhow much did you get?
+
+
+[10/22/2022 1:59 AM] _oceansky
+very minimal bro haha, enough for pizza though 😁
+
+
+[10/22/2022 2:09 AM] chaduke#3730
+@Ocean_Skyvery encourging already, I just started this week. Hope I can buy a pizza next month 🙂
+
+
+[10/22/2022 2:10 AM] _oceansky
+you can do it bro, even the top auditor in leaderboard, started from scratch, nil, zero , nada haha
+
+
+[10/22/2022 2:11 AM] chaduke#3730
+@Ocean_Skythanks Bro, do you have any good tutorials or just eyes and hands?
+
+
+[10/22/2022 2:12 AM] _oceansky
+https://secureum.substack.com/, loaded with quality
+
+
+[10/22/2022 2:12 AM] chaduke#3730
+Most youtube I watch only talk about the basics/common scenarios like reentrancy, DOS, etc
+
+
+[10/22/2022 2:13 AM] chaduke#3730
+thanks Bro for sharing
+
+
+[10/22/2022 2:21 AM] _oceansky
+another one, very fresh, https://github.com/immunefi-team/Web3-Security-Library
+
+{Embed}
+https://github.com/immunefi-team/Web3-Security-Library
+GitHub - immunefi-team/Web3-Security-Library: Information about web...
+Information about web3 security and programming tutorials/tools - GitHub - immunefi-team/Web3-Security-Library: Information about web3 security and programming tutorials/tools
+Code4rena - ARCHIVE-Q3-2022 - ☑frax-sept22 [1006962351754453182].txt_Files/b40c2e27-0bcd-494a-9d43-780738468ff9-C95FE
+
+
+[10/22/2022 2:21 AM] _oceansky
+goodluck!
+
+
+[10/22/2022 2:44 AM] chaduke#3730
+@Ocean_SkyThanks again
+
+{Reactions}
+C4Keycap 
+
+[10/23/2022 2:25 PM] chaduke#3730
+I will conclude my first project submission today#
+
+
+[10/23/2022 2:25 PM] chaduke#3730
+Hope my good luck
+
+{Reactions}
+👏🏻 
+
+[10/24/2022 1:58 AM] chaduke#3730
+@Ocean_Skyyou are already on top 500 in the leaderboard, good job!
+
+
+[10/24/2022 2:03 AM] _oceansky
+thanks dude, appreciating the little progress
+
+
+[10/24/2022 2:19 AM] chaduke#3730
+You are wecome, bro, how many projects have you pariticipated since frax?
+
+
+[10/24/2022 2:19 AM] chaduke#3730
+@Ocean_Sky
+
+
+[10/24/2022 2:28 AM] _oceansky
+maybe less than 10, i just started last sept
+
+
+[10/24/2022 7:00 AM] zzykxx
+how are you guys so fast, started in september as well and did 4 contest
+
+
+[10/24/2022 1:56 PM] chaduke#3730
+@Ocean_Skythat's awesome. I will have 4 after finishing Holograph
+
+
+[10/26/2022 4:45 PM] find_a_bug
+Hi, everybody! This was my first bug bounty on web 3! I'm so happy! Have you received your payment? Or it takes some time?
+
+
+[10/26/2022 6:33 PM] 0xzyr0
+the payout hasnt been done for this contest, have patience it will be done soon
+
+{Reactions}
+🔥 
+
+[10/28/2022 1:18 PM] chaduke#3730
+@find_1_bugcongrats, I just got started, hope I can experience your first-time excitement soon
+
+
+[10/28/2022 1:18 PM] chaduke#3730
+nice name, bro!
+
+
+[10/28/2022 2:43 PM] .satyam_
+does this contest payout get credit to the individual address??
+
+
+[10/29/2022 12:57 AM] yongkiws
+yes, i think 1-2 weeks distributions
+
+
+[10/29/2022 4:23 AM] .satyam_
+Yes it's 2nd week running
+
+
+[10/29/2022 2:26 PM] .satyam_
+any update of award distribution this was my first contest that's why i'm  little concern
+
+
+[10/29/2022 4:50 PM] find_a_bug
+Thanks @chaduke ! It's definitely possible. Especially with gas optimization bugs. The nice thing is I did it just out of curiosity and expected $2 payout. When I saw $21 my heart almost stopped beating lol
+
+{Reactions}
+🤘 (2) 
+
+[10/29/2022 5:28 PM] pfapostol
+in the next contests a scoring threshold will be introduced and low quality gas/qa reports will not be profitable.
+
+{Reactions}
+👍 
+
+[10/30/2022 2:21 PM] ballx0
+Is the payout initiated ?
+
+
+[10/30/2022 2:27 PM] yongkiws
+No bro
+
+
+[10/30/2022 2:27 PM] yongkiws
+1-2 weeks
+
+{Reactions}
+👍🏻 
+
+[10/30/2022 2:28 PM] yongkiws
+be patient
+
+
+[10/30/2022 3:33 PM] find_a_bug
+@pfapostol Yeah, I know. The best thing to do is play for the long game and the deeper bugs. I'm not in that level yet, but it's a goal of mine.
+
+
+[11/01/2022 2:36 AM] lukejohn#2870
+@Ocean_Skymy friend, how is your day?
+
+
+[11/02/2022 5:33 AM] .satyam_
+2 days left for 2 weeks to complete, but the payout hasn't initiated
+
+{Reactions}
+thisisfine (2) 
+
+[11/02/2022 5:34 AM] ballx0
+https://tenor.com/view/sadness-sad-hello-emotional-gif-24690800
+
+{Embed}
+https://tenor.com/view/sadness-sad-hello-emotional-gif-24690800
+Code4rena - ARCHIVE-Q3-2022 - ☑frax-sept22 [1006962351754453182].txt_Files/sadness-sad-1D85F.png
+
+
+[11/02/2022 7:09 AM] pfapostol
+2 weeks is an expected time, sometimes the payouts may come later, so there is no need to panic before 2 weeks.
+
+{Reactions}
+thankyou (2) 
+
+[11/04/2022 12:11 AM] 0xa5df
+Hi
+It's over 2 weeks now, is there any estimation when will the awards be sent out?
+
+{Reactions}
+👀 (6) thisisfine 
+
+[11/04/2022 4:23 PM] franco_btc
+nothing yet...
+
+{Reactions}
+👀 (2) 
+
+[11/04/2022 7:43 PM] yongkiws
+be patient
+
+
+[11/05/2022 3:16 AM] .satyam_
+Payout is so delayed! Their should be a feature on c4 to track the payouts of different completed contest , tracking them becomes easy for wardens to guess how many days are left for payout initiated in this way neither do warden get worried about payout nor do c4 staff get any issue regarding payouts.
+Like Amazon delivery tracking features 🙃
+
+{Reactions}
+🥲 💯 (3) 
+
+[11/05/2022 8:23 AM] a12jmx
+A feature that plays into this feature where payouts get send every Friday where the payouts round up for the previous weeks contests awards from Thursday to the next week Wednesday and then on the Friday of the Wednesday cut off date payouts for those 5 days get send. (c4 timezone)
+
+That way there's 5 days for awards to be announced and added to the list of distribution and also 2 days regardless of what happens that payouts can be made sure of and next week the same happens with zero exceptions unless there is some direct issue with payout from the sponsors side etc. and if there is an issue in the short term wardens get notified, maybe in a format that Satyam suggested turning the C4 profile on the website into a back office of some sort 🙂
+
+I get the 1 - 2 week period and that's great but I can see how it can get a bit crazy with multiple contests getting awarded over a given time especially this time around with multiple awards awaiting distribution.
+
+Not sure if there's automation on distribution yet either but this will greatly simplify future automation and distribution.
+
+
+[11/05/2022 8:45 AM] a12jmx
+Or make it every 2 weeks Friday. That way there's 12 days for awards to be announce and added to list of distribution (not accounting for public holidays) and instead of stating 1 - 2 weeks for distribution, the Friday it will get distributed exact date gets initiated.
+
+So as an example, excluding the distribution of current awards awaiting distribution, 
+
+if we take it from this past Thursday that would mean from Thursday 03 Nov - Wednesday 16 Nov all contest awards that gets announced in this time frame gets distributed on Friday 18 Nov and then the same happens from Thursday 17 Nov - 30 Nov for distribution on Friday 02 Dec etc
+
+Only exception will be above mentioned and ofcourse the Friday falling on a public holiday where the awards then can be distributed the next Monday or Tuesday (if not fully automated) not affecting the other 2 week awards
+
+
+[11/05/2022 9:22 AM] .satyam_
+yes i agree with u on this. fix the exact date and day to get the payout initiated so that the warden does not get hesitate by asking when the payouts get initiated multiple time's Like me🙃  But yes many things occur in c4 is mannually type and some time payouts and things specifically get delayed so for this c4 stuff should notify wardens in advance because many c4 wardens do their contest for the 1st time and they get worried like why my payouts do not initiated does i given the wrong wallet address? and many dilemma they get faced..
+
+
+[11/05/2022 10:44 AM] pfapostol
+maybe the best way is to just stop asking every day when the payout is, and just wait.
+
+{Reactions}
+🥲 😂 (4) 
+
+[11/05/2022 12:26 PM] ballx0
+is it first time rewards getting delayed ?
+
+
+[11/05/2022 12:27 PM] pfapostol
+not
+
+{Reactions}
+psyduck 
+
+[11/05/2022 1:01 PM] 0xa5df
+They've got a tx pending for this, it'll be sent out in the next few days probably
+https://gnosis-safe.io/app/eth:0xC2bc2F890067C511215f9463a064221577a53E10/transactions/multisig_0xC2bc2F890067C511215f9463a064221577a53E10_0x1a2af0d110a9da003a939eb5a6944e5ca0746bb6f86952a7dc1e01dbdee81309
+
+{Reactions}
+PU_FeelsBongoMan (4) ✅ (3) 👆 (2) 👍 (2) 
+
+[11/05/2022 1:52 PM] ladboy233
+oooo smart. Yeah can look at the multsig wallet!
+
+
+[11/05/2022 2:44 PM] 0xa5df
+(one of the staff actually told me about it, but I didn't want to admit I bothered them during the weekend for this kind of stuff 🙈 )
+
+{Reactions}
+👍 (4) 
+
+[11/05/2022 3:50 PM] rohan16
+sometimes being silly can make you gain some knowledge😅
+
+{Reactions}
+💯 
+
+[11/07/2022 3:14 PM] pheonix244001
+has everyone recieved it ?
+
+
+[11/07/2022 3:21 PM] pfapostol
+yes, all should
+
+
+[11/07/2022 3:54 PM] pheonix244001
+I haven't received it yet
+
+
+[11/07/2022 3:56 PM] pfapostol
+Double check everything, if not receive wait until official announcement, and then create help-request on site.
+
+
+[11/07/2022 3:56 PM] ch0bu
+make sure that you are on Polygon network, if you do not know how to add Polygon here it is: https://academy.binance.com/en/articles/how-to-add-polygon-to-metamask
+
+{Embed}
+https://academy.binance.com/en/articles/how-to-add-polygon-to-metamask
+How to Add Polygon to MetaMask? | Binance Academy
+Connect Polygon to your MetaMask browser extension crypto wallet with a custom RPC, network name, chain ID, and cryptocurrency symbol.
+Code4rena - ARCHIVE-Q3-2022 - ☑frax-sept22 [1006962351754453182].txt_Files/182d3aaa8c9446f0922971a447a0f818-2E4CB.png
+
+
+[11/07/2022 3:57 PM] pfapostol
+https://polygonscan.com/tx/0x2b63ba0f90d50eb42c75d93c801a6482a930151d0e2f2a6adb7fc9bcc02a7a6e
+
+{Embed}
+https://polygonscan.com/tx/0x2b63ba0f90d50eb42c75d93c801a6482a930151d0e2f2a6adb7fc9bcc02a7a6e
+Polygon Transaction Hash (Txhash) Details | PolygonScan
+Polygon (MATIC) detailed transaction info for txhash 0x2b63ba0f90d50eb42c75d93c801a6482a930151d0e2f2a6adb7fc9bcc02a7a6e. The transaction status, block confirmation, gas fee, MATIC, and token transfer are shown.
+Code4rena - ARCHIVE-Q3-2022 - ☑frax-sept22 [1006962351754453182].txt_Files/PolygonScan-logo-circle-6FDB5.jpg
+
+
+[11/07/2022 3:58 PM] pfapostol
+you received an award at 0x9F4cD722C7dB91EA7f80f71e542fA2520014A263
+
+
+[11/07/2022 6:22 PM] .satyam_
+me too!!! not received
+
+
+[11/07/2022 6:46 PM] pfapostol
+@Satyam_ you received at address 0xe9f495ddb9d8f50d3db48cba953f38e4bb252c40. check your  USDC  on polygon.
+
+{Reactions}
+👍 
+
+[11/10/2022 7:43 AM] find_a_bug
+I've not received yet.
+
+
+[11/10/2022 7:54 AM] find_a_bug
+I received it. I didn't know it's in USDC. If someone is new here like me, apart from adding polygon to metamask, you also have to import the usdc token.
+
+
+[12/07/2022 3:11 AM] _oceansky
+Hey bro, congrats again in your high finding, i have a dm for you, hope you can answer. many thanks
+
+
+==============================================================
+Exported 242 message(s)
+==============================================================
